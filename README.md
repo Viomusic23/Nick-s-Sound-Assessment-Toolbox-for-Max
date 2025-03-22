@@ -57,17 +57,9 @@ If you are looking to conduct a basic soundscape assessment this will take you t
 - ***Refresh before adding any other Snippets*** This is very important for the logic of the Mira Frames, to assign them to the correct numbers first time. For this reason you must also make sure to change the slide numbers of each subsequent Questions Snippet.
 - Test that audio/video plays when clicking the play button in presentation mode (may need to click twice)
 
- Repeat adding Question Snippets until you have completed your questionaire. Feel free to change the layout or design of the Mira frames in presentation view to your desired look. 
+Repeat adding Question Snippets until you have completed your questionaire. Feel free to change the layout or design of the Mira frames in presentation view to your desired look. 
 
- Remember to refresh in between adding questions and adding more to the total slides in the QuestionaireBase Snippet Module.
+Remember to refresh in between adding questions and adding more to the total slides in the QuestionaireBase Snippet Module.
 
- ## The Results Screen
- When you're happy with your questionaire, navigate to the "Results" Tab at the top of the Patch (this will have been created when adding the QuestionaireBase Module).
-
- To configure this section enter edit mode. You will see the "Ex_Results" receive object inputting to a message box. This is the layout you will need to copy with the correct bang order, with the correct Send/Receive variables in order to collate your candidates' results.
- This process will be made simpler in a future push. For now, see the demo patch to see how this is configured. 
-
- When your test participants have completed the test, press the Big Red Button<sup>TM</sup> to see your results as a text object list. This can be copy/pasted into an Excel Sheet, in the format of the Demo Workbook, or saved as a .csv. Just be sure to save your candidates results before Refeshing for the next candidate.
- 
- 
-To load results, click the red circle and results for that participant will open in a text file - these can then be copied to csv
+## The Results Screen
+When your test participants have completed the test, press the Big Red Button<sup>TM</sup> to see your results as a text object list. This can be copy/pasted into an Excel Sheet, in the format of the Demo Workbook, or saved as a .csv. Just be sure to save your candidates results before Refeshing for the next candidate.
