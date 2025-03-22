@@ -6,6 +6,7 @@ The idea is to use this patching method to create a cohesive soundscape asessmen
 The questionaire is based on the ISO 12913-2:2018 Method A questionnaire (ISO, 2018) standard for soundscape assessments, as well as the exported text format being able to paste directly into Excel for displaying using the Mitchell et al. (2018) method for soundscpae assesment data representation. 
 
 The questionaire is also programmed to be double blind creating a unique question order for each test participant, to eliminate any form of biases between audio clips. However, the random seed is also used internally to always ensure your results from the assessment come back in the same order. 
+
 In short, the test is a random order, the results are not. 
 
 ## Getting Started:
