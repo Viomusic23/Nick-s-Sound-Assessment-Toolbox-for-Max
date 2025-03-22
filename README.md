@@ -1,11 +1,12 @@
 ## Welcome to the NSAT for Max 8 Toolbox. 
-I created this soundscape assessment patch as part of my Final Year Project, "Assessing the Practicality of Generating Virtual Impulse Responses for Use in Sound Design for Film and Theatre", for my BSc Music Technology course at Birmingham City University. I'm currently looking at expanding my research into a better academic paper, hence developing these patches into more user-friendly Snippets in Max 8. If you wish to read my research project it can be found at: 
+I created this soundscape assessment patch as part of my Final Year Project, "Assessing the Practicality of Generating Virtual Impulse Responses for Use in Sound Design for Film and Theatre", for my BSc Music Technology course at Birmingham City University. I'm currently looking at expanding my research into a better academic paper, hence developing these patches into more user-friendly Snippets in Max 8. 
 
 ## About NSAT
 The idea is to use this patching method to create a cohesive soundscape asessment questionaire using Max 8, in conjuction with the Mira mobile app or MiraWeb on a portable device, controlled by the test participant, with oversight from the person conducting the tests, along with a presenting screen for displaying videos or images. The 'controller' has full access to what the participant is seeing but should let the participant take themselves through the assessment at their own pace, with their own answers to the questions presented. 
-The questionaire is based on the ISO(####) standard for soundscape assessments, as well as the Mitchell et al. paper "How to analyse and represent quantative soundscape data", with the exported text format being able to paste directly into Excel for displaying using Mitchell et al.'s methods for data representation. 
+The questionaire is based on the ISO 12913-2:2018 Method A questionnaire (ISO, 2018) standard for soundscape assessments, as well as the exported text format being able to paste directly into Excel for displaying using the Mitchell et al. (2018) method for soundscpae assesment data representation. 
 
 The questionaire is also programmed to be double blind creating a unique question order for each test participant, to eliminate any form of biases between audio clips. However, the random seed is also used internally to always ensure your results from the assessment come back in the same order. 
+In short, the test is a random order, the results are not. 
 
 ## Getting Started:
 - Download the "Snippets" folder from this repo.
